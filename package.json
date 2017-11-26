@@ -1,0 +1,20 @@
+{
+  "name": "demo002",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.17",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "^2.30.1",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^1.12.4"
+  }
+}
